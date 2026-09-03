@@ -1,0 +1,31 @@
+id: IEE67309C
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-17
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  author: མཛད་པ་པོ། ཏཱའ་ར་ནཱ་ཐ།, མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨསྱ།, མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།,
+    མཛད་པ་པོ། ཚེ་དབང་ཀུན་ཁྱབ།
+  authors: &id001
+  - མཛད་པ་པོ། ཏཱའ་ར་ནཱ་ཐ།
+  - མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨསྱ།
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  - མཛད་པ་པོ། ཚེ་དབང་ཀུན་ཁྱབ།
+  sku: RDI-KK-17
+  cover: RDI-KK-17.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  authors: *id001
+  sku: RDI-KK-17
+  cover: RDI-KK-17.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- Tsawa
+- Yigchung
