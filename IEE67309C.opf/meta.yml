@@ -2,7 +2,7 @@ id: IEE67309C
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-17
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: བསྙེན་ཡིག་སྣ་ཚོགས་ཕྱོགས་བསྡེབས་པད་དཀར་ཆུན་པོ།
   author: མཛད་པ་པོ། ཏཱའ་ར་ནཱ་ཐ།, མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨསྱ།, མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།,
     མཛད་པ་པོ། ཚེ་དབང་ཀུན་ཁྱབ།
   authors: &id001
@@ -13,8 +13,9 @@ source_metadata:
   sku: RDI-KK-17
   cover: RDI-KK-17.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: བསྙེན་ཡིག་སྣ་ཚོགས་ཕྱོགས་བསྡེབས་པད་དཀར་ཆུན་པོ།
   authors: *id001
   sku: RDI-KK-17
   cover: RDI-KK-17.jpeg
